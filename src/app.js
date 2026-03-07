@@ -1,4 +1,4 @@
-console.log('Hello from MaadaniMohamed -CONFLICT');
+console.log('Hello from AmalOtman-CONFLICT');
 console.log('Second line');
 <<<<<<< HEAD
 console.log('Update from AmalOtman');
